@@ -268,7 +268,7 @@ ui <- fluidPage(
     
     # Individual Gene Expression main-tab 
     tabPanel("Individual Gene Expression", 
-              tags$h3("Individual Gene Expression"),
+              tags$h3("Individual Gene Expression"), 
               tags$div(
                 tags$h5("Visualize, search and plot individual gene expression")
               ),
